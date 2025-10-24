@@ -70,10 +70,10 @@ Simulation-Based Learning:
 
 <img width="334" height="67" alt="image" src="https://github.com/user-attachments/assets/f6acb78c-034e-413c-8998-4ce50e7440b8" />
 
-👋🏻 Connect with Me
 
+👋🏻 Connect with Me
 •	[LinkedIn](www.linkedin.com/in/manohar-mamidipaka)
 
-Feel free to explore my repositories and don't hesitate to reach out if you have any questions or would like to collaborate on something interesting!
+Feel free to explore my repositories, and don't hesitate to reach out (imanohar.m54@gmail.com) if you have any questions or would like to collaborate on something interesting!
 
 Happy Threat Hunting! 🚀
