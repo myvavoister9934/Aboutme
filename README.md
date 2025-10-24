@@ -1,4 +1,6 @@
 # Aboutme
+<a href="https://github.com/Manohar M">
+  
 This description represents my present qualifications and expertise. I am a firm believer in continuous learning, and therefore, this profile is dynamic and may be augmented with new skills and experiences over time.
 
 Hi there 👋
@@ -19,7 +21,11 @@ I'm actively pursuing relevant certifications and training programs to solidify 
 
 Some of the certifications I achieved:
 
-•	Google Cybersecurity Specialization
+•	Cisco Certified support Technician-Cybersecurity (Junior Cybersecurity Analyst Path)
+
+•	Google Cybersecurity Specialisation
+
+•	PCEP-Certified entrylevel python programmer-30-02
 
 •	CompTia Security+
 
@@ -30,6 +36,8 @@ Some of the certifications I achieved:
 •	Belkasoft Certified in Android Forensics
 
 •	Belkasoft Certified in Windows Forensics
+
+Simulation-Based Learning:
 
 •Commonwealth Bank Introduction to Cybersecurity Job Simulation on Forage
 
@@ -45,24 +53,23 @@ Some of the certifications I achieved:
 
 •Datacom Cybersecurity Job Simulation on Forage 
 
-
 🛠️ My Arsenal
 
-•	Languages: Python, [Other Languages]
+•	Languages: Python, SQL
 
 •	Tools: Nmap, Wireshark, air-crack, Metasploit, OpenVAS, FTK, Autopsy, Nessus,  Belkasoft
 
-•	SIEM: Q-RADAR, ELK, Splunk
+•	SIEM: Splunk, ELK, Q-Radar
 
 •	IDS/IPS: Snort,Suricata,Zeek
 
-•	Firewalls: IPFire,pfSense
+•	Firewalls: IPFire,pfSense,Cisco meraki Mx67
 
 •	Operating Systems: Windows, Kali Linux, Mac OS
 
 ✍️ Working Towards
 
-“Protecting information, preserving trust”
+<img width="334" height="67" alt="image" src="https://github.com/user-attachments/assets/f6acb78c-034e-413c-8998-4ce50e7440b8" />
 
 👋🏻 Connect with Me
 
@@ -70,4 +77,4 @@ Some of the certifications I achieved:
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or would like to collaborate on something interesting!
 
-Happy Hunting! 🚀
+Happy Threat Hunting! 🚀
